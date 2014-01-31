@@ -1,4 +1,4 @@
-defaultTasks 'war', 'install'
+defaultTasks 'clean', 'cobertura'
 
 apply plugin: 'java'
 apply plugin: 'groovy'
